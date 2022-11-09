@@ -1,0 +1,4 @@
+npm install @mui/icons-material ---- primeiro passo para conseguir usar icones fodas
+npm install @material-ui/icons@4.11.3 --force ----- serve para conseguir usar icones fodas
+npm install @material-ui/styled-engine --force ----- nem sei pra que serve mas foi
+npm install @emotion/react --force para tirar todos os erros
